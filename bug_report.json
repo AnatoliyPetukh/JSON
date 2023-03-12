@@ -1,0 +1,16 @@
+{
+  "bug": {
+    "title": "Error when trying to submit form",
+    "description": "When I try to submit the form, I receive a 500 Internal Server Error.",
+    "stepsToReproduce": [
+      "Fill out the form with valid data",
+      "Click on the submit button"
+    ],
+    "expectedResult": "Form is submitted successfully",
+    "actualResult": "500 Internal Server Error",
+    "severity": "High",
+    "browser": "Chrome",
+    "operatingSystem": "Windows 10",
+    "timestamp": "2023-03-12T10:30:00.000Z"
+  }
+}
